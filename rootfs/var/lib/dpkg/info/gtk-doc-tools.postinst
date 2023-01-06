@@ -1,0 +1,12 @@
+#!/bin/sh
+set -e
+
+# Automatically added by dh_python3:
+if which py3compile >/dev/null 2>&1; then
+	py3compile -p gtk-doc-tools /usr/share/gtk-doc
+fi
+if which pypy3compile >/dev/null 2>&1; then
+	pypy3compile -p gtk-doc-tools /usr/share/gtk-doc || true
+fi
+
+# End automatically added section

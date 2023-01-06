@@ -1,0 +1,6 @@
+f244a33c6dc95fea515790fd26417268  usr/bin/capnp
+997b7d01e6822dbbf4b6186fe2a50b92  usr/bin/capnpc-c++
+be09a9c3c27735305404616b783100c1  usr/bin/capnpc-capnp
+28a4a490297e901d9cde33537ade5cf7  usr/share/doc/capnproto/copyright
+4eb3b2ae036e485dd1c600173e6f46a0  usr/share/lintian/overrides/capnproto
+25d67d8efb56fd56498d6a0fb801e099  usr/share/man/man1/capnp.1.gz

@@ -1,0 +1,13 @@
+8615901159039a64f859a412577e0475  usr/bin/docbook-to-man
+b7ec9f85b74c139cf6e75ab545790437  usr/bin/instant
+e5bfa87f8eec7c389ab499254c783cec  usr/share/doc/docbook-to-man/README.ANS.gz
+a55c1fa6ac8e72055f75dc22e075d20d  usr/share/doc/docbook-to-man/README.gz
+aeee0eccd9d35d7ae12259a10e307bb7  usr/share/doc/docbook-to-man/changelog.Debian.gz
+ed7f5273b6b42355316bfef1521b7c6e  usr/share/doc/docbook-to-man/copyright
+885b73f6cda391d1f56c71a3b81d35c3  usr/share/lintian/overrides/docbook-to-man
+18c376165cef9a98436e810a0d59a3a4  usr/share/man/man1/docbook-to-man.1.gz
+4c1c5e8df6cdf5bef2dd5e5b13829097  usr/share/man/man1/instant.1.gz
+0b9078606de497cb359cac48ab11cc2a  usr/share/man/man5/transpec.5.gz
+3570976b5da715081869a46880dc413a  usr/share/sgml/transpec/docbook-to-man.ts
+d0f6a97e0e36443f54115e8d4aa5ce7c  usr/share/sgml/transpec/roff.cmap
+006af4302e2bac07182b026464760897  usr/share/sgml/transpec/roff.sdata

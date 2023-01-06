@@ -1,0 +1,14 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: casync
+Source: https://github.com/systemd/casync
+
+Files: *
+Copyright: 2017 Lennart Poettering <lennart@poettering.net>
+License: LGPL-2.1+
+ This library is free software; you can redistribute it and/or
+ modify it under the terms of the GNU Lesser General Public
+ License as published by the Free Software Foundation; either
+ version 2.1 of the License, or (at your option) any later version.
+ .
+ The full text of the LGPL is distributed as in
+ /usr/share/common-licenses/LGPL-2.1 on Debian systems.

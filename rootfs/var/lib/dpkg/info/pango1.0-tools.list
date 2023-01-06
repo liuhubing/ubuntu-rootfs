@@ -1,0 +1,13 @@
+/.
+/usr
+/usr/bin
+/usr/bin/pango-list
+/usr/bin/pango-view
+/usr/share
+/usr/share/doc
+/usr/share/doc/pango1.0-tools
+/usr/share/doc/pango1.0-tools/copyright
+/usr/share/man
+/usr/share/man/man1
+/usr/share/man/man1/pango-view.1.gz
+/usr/share/doc/pango1.0-tools/changelog.Debian.gz

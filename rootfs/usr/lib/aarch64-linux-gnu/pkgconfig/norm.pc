@@ -1,0 +1,11 @@
+prefix=/usr
+exec_prefix=${prefix}
+libdir=${prefix}/lib/aarch64-linux-gnu
+includedir=${prefix}/include
+
+Name: norm
+Version: 1.5.8+dfsg2
+Description: NACK-Oriented Reliable Multicast (NORM) library
+Libs: -L${libdir} -lnorm
+Libs.private: -lstdc++ -lprotolib 
+Cflags: -I${includedir}

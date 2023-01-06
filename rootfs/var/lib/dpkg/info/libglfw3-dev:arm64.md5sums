@@ -1,0 +1,8 @@
+0ad73d30a70245f4c7599c529cd0a4db  usr/include/GLFW/glfw3.h
+ac3c29ac78f8b28cbdc489f58ada8527  usr/include/GLFW/glfw3native.h
+40d867b1b89b5676a65f7fd1e28f121a  usr/lib/aarch64-linux-gnu/cmake/glfw3/glfw3Config.cmake
+d6771d4e9ea8d52d6c12021b6ac024bc  usr/lib/aarch64-linux-gnu/cmake/glfw3/glfw3ConfigVersion.cmake
+b6d93ff5d893305bee2c84c08ac2ce0f  usr/lib/aarch64-linux-gnu/cmake/glfw3/glfw3Targets-none.cmake
+d2ce91c811b87fae6357fea7c667284a  usr/lib/aarch64-linux-gnu/cmake/glfw3/glfw3Targets.cmake
+5b03cbf8ad0087c9728877194d682ded  usr/lib/aarch64-linux-gnu/pkgconfig/glfw3.pc
+69e50a2690fe38c4c0ac6e8055564e8b  usr/share/doc/libglfw3-dev/copyright

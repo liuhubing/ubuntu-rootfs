@@ -1,0 +1,4 @@
+28f466e1c38a0f82df4ada30e5052421  usr/include/xcb/composite.h
+a7d30311ef2572a5552e3dd6f611827c  usr/lib/aarch64-linux-gnu/libxcb-composite.a
+ac4ef221219d7cd3abfcf3a9c218c8c9  usr/lib/aarch64-linux-gnu/pkgconfig/xcb-composite.pc
+618ee90893b45d0d0c19d41a3a3d2e7d  usr/share/doc/libxcb-composite0-dev/copyright

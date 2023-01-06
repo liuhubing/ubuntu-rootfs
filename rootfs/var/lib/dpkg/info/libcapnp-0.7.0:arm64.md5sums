@@ -1,0 +1,12 @@
+859eb6a3275c52203a241295666f6ced  usr/lib/aarch64-linux-gnu/libcapnp-0.7.0.so
+735037ea9e9d737acc058ab5eee57b1f  usr/lib/aarch64-linux-gnu/libcapnp-json-0.7.0.so
+d05db8146179292e9a0091e31798ac9e  usr/lib/aarch64-linux-gnu/libcapnp-rpc-0.7.0.so
+90df8c8d13730b850f16399ccc1181e3  usr/lib/aarch64-linux-gnu/libcapnpc-0.7.0.so
+942b90c1a0077806758dc9aed739a1a1  usr/lib/aarch64-linux-gnu/libkj-0.7.0.so
+a6aecd56e254c33950c4493a5ea20290  usr/lib/aarch64-linux-gnu/libkj-async-0.7.0.so
+83055d727d81b704be5e88de230ad112  usr/lib/aarch64-linux-gnu/libkj-http-0.7.0.so
+a8f861b376d8884df4e64f223809b86f  usr/lib/aarch64-linux-gnu/libkj-test-0.7.0.so
+cac48e16d2fc03db6ee36451ec8250ad  usr/share/doc/libcapnp-0.7.0/README.txt
+50d9f6932b6904d5bbf76163825d36da  usr/share/doc/libcapnp-0.7.0/changelog.Debian.gz
+28a4a490297e901d9cde33537ade5cf7  usr/share/doc/libcapnp-0.7.0/copyright
+ce94f3e2b3aecac8ce163985d63b88e9  usr/share/lintian/overrides/libcapnp-0.7.0

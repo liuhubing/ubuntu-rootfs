@@ -1,0 +1,10 @@
+prefix=/usr
+exec_prefix=${prefix}
+libdir=${prefix}/lib/aarch64-linux-gnu
+includedir=${prefix}/include
+
+Name: KJ Framework Library
+Description: Basic utility library called KJ
+Version: 0.7.0
+Libs: -L${libdir} -lkj -pthread  -lpthread 
+Cflags: -I${includedir} -pthread  

@@ -1,0 +1,7 @@
+c1e4bbb6cf58001d5927516802d52a8c  usr/include/aarch64-linux-gnu/libavfilter/avfilter.h
+22d5b64c00907d4815b9ba86be18bc16  usr/include/aarch64-linux-gnu/libavfilter/buffersink.h
+83324815caa6e33c4b3678693b59b41c  usr/include/aarch64-linux-gnu/libavfilter/buffersrc.h
+a40a67bcf8fe334f455832ebd8a6c8b3  usr/include/aarch64-linux-gnu/libavfilter/version.h
+c61d3db2f352770570feb66232772348  usr/lib/aarch64-linux-gnu/libavfilter.a
+faf30bc2d1b836661afac2652bf7b61b  usr/lib/aarch64-linux-gnu/pkgconfig/libavfilter.pc
+001f538bf878ec438a4151e9e98daebd  usr/share/doc/libavfilter-dev/copyright

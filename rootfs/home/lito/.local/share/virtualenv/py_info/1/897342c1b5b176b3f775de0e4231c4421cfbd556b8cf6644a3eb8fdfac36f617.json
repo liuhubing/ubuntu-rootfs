@@ -1,0 +1,69 @@
+{
+  "content": {
+    "_creators": null,
+    "architecture": 64,
+    "base_exec_prefix": "/home/lito/.pyenv/versions/3.8.10",
+    "base_prefix": "/home/lito/.pyenv/versions/3.8.10",
+    "distutils_install": {
+      "data": "",
+      "headers": "include/python3.8/UNKNOWN",
+      "platlib": "lib/python3.8/site-packages",
+      "purelib": "lib/python3.8/site-packages",
+      "scripts": "bin"
+    },
+    "exec_prefix": "/home/lito/.pyenv/versions/3.8.10",
+    "executable": "/home/lito/.pyenv/versions/3.8.10/bin/python",
+    "file_system_encoding": "utf-8",
+    "has_venv": true,
+    "implementation": "CPython",
+    "max_size": 9223372036854775807,
+    "original_executable": "/home/lito/.pyenv/versions/3.8.10/bin/python",
+    "os": "posix",
+    "path": [
+      "/home/lito/.pyenv/versions/3.8.10/lib/python3.8/site-packages/virtualenv/discovery",
+      "/home/lito/.pyenv/versions/3.8.10/lib/python38.zip",
+      "/home/lito/.pyenv/versions/3.8.10/lib/python3.8",
+      "/home/lito/.pyenv/versions/3.8.10/lib/python3.8/lib-dynload",
+      "/home/lito/.pyenv/versions/3.8.10/lib/python3.8/site-packages"
+    ],
+    "platform": "linux",
+    "prefix": "/home/lito/.pyenv/versions/3.8.10",
+    "real_prefix": null,
+    "stdout_encoding": "utf-8",
+    "sysconfig": {
+      "makefile_filename": "/home/lito/.pyenv/versions/3.8.10/lib/python3.8/config-3.8-aarch64-linux-gnu/Makefile"
+    },
+    "sysconfig_paths": {
+      "data": "{base}",
+      "include": "{installed_base}/include/python{py_version_short}{abiflags}",
+      "platlib": "{platbase}/lib/python{py_version_short}/site-packages",
+      "platstdlib": "{platbase}/lib/python{py_version_short}",
+      "purelib": "{base}/lib/python{py_version_short}/site-packages",
+      "scripts": "{base}/bin",
+      "stdlib": "{installed_base}/lib/python{py_version_short}"
+    },
+    "sysconfig_scheme": null,
+    "sysconfig_vars": {
+      "PYTHONFRAMEWORK": "",
+      "abiflags": "",
+      "base": "/home/lito/.pyenv/versions/3.8.10",
+      "installed_base": "/home/lito/.pyenv/versions/3.8.10",
+      "platbase": "/home/lito/.pyenv/versions/3.8.10",
+      "py_version_short": "3.8"
+    },
+    "system_executable": "/home/lito/.pyenv/versions/3.8.10/bin/python",
+    "system_stdlib": "/home/lito/.pyenv/versions/3.8.10/lib/python3.8",
+    "system_stdlib_platform": "/home/lito/.pyenv/versions/3.8.10/lib/python3.8",
+    "version": "3.8.10 (default, Jan  6 2023, 10:27:14) \n[GCC 9.4.0]",
+    "version_info": {
+      "major": 3,
+      "micro": 10,
+      "minor": 8,
+      "releaselevel": "final",
+      "serial": 0
+    },
+    "version_nodot": "38"
+  },
+  "path": "/home/lito/.pyenv/versions/3.8.10/bin/python",
+  "st_mtime": 1672972187.0
+}

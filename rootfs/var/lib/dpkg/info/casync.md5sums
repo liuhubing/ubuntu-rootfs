@@ -1,0 +1,9 @@
+83c7438c2117243c9328ebd4679e2999  lib/udev/rules.d/75-casync.rules
+fcc72af02e820561d53ac3e385ff6c61  usr/bin/casync
+bd026d7be3bae941069ac32e8971e623  usr/lib/casync/protocols/casync-http
+b8abd2022ce79a2b8896bc151de3ca5a  usr/share/bash-completion/completions/casync
+df75d0889c0ac56412f721652b845671  usr/share/doc/casync/NEWS.gz
+08ab5cf3fd070005603cd3edd994f24f  usr/share/doc/casync/README.md.gz
+4495b6b2f6596f2021aa68bfe968f1db  usr/share/doc/casync/changelog.Debian.gz
+721f5c160479d2e25bd4a8a7f477de5b  usr/share/doc/casync/copyright
+b07c55cade29ede16bb63f0fceeef1a0  usr/share/man/man1/casync.1.gz

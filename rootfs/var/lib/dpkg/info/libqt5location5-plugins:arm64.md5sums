@@ -1,0 +1,6 @@
+023c6e8ed0dd45706fc66d09937457f4  usr/lib/aarch64-linux-gnu/qt5/plugins/geoservices/libqtgeoservices_esri.so
+a5da5d338847dd9809fe2a8d74c1c617  usr/lib/aarch64-linux-gnu/qt5/plugins/geoservices/libqtgeoservices_itemsoverlay.so
+136f86a914a11afc0a6450970e1e2af7  usr/lib/aarch64-linux-gnu/qt5/plugins/geoservices/libqtgeoservices_mapbox.so
+abfbab33862670fcb4767d045cb84dc9  usr/lib/aarch64-linux-gnu/qt5/plugins/geoservices/libqtgeoservices_nokia.so
+fb1fcbd00696e70b4000b311f945cec0  usr/lib/aarch64-linux-gnu/qt5/plugins/geoservices/libqtgeoservices_osm.so
+a7eec1dbedb76c52968250a04e5e2b59  usr/share/doc/libqt5location5-plugins/copyright

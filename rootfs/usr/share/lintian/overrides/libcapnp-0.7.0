@@ -1,0 +1,3 @@
+libcapnp-0.7.0 binary: no-symbols-control-file usr/lib/*
+libcapnp-0.7.0 binary: spelling-error-in-binary usr/lib/*/libcapnp-rpc-*.so capTable *
+

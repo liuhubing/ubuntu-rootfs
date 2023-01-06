@@ -1,0 +1,5 @@
+e153b36bf0587070b5aeb11706b3376b  usr/include/aarch64-linux-gnu/libavdevice/avdevice.h
+e648595ed88a92a94c633c9c99ff8f30  usr/include/aarch64-linux-gnu/libavdevice/version.h
+27989b6189d3e8682d5cb51fcb41e068  usr/lib/aarch64-linux-gnu/libavdevice.a
+a29a0ba3f6d1fd332055e018fd8e8c7c  usr/lib/aarch64-linux-gnu/pkgconfig/libavdevice.pc
+001f538bf878ec438a4151e9e98daebd  usr/share/doc/libavdevice-dev/copyright
